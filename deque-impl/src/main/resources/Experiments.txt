@@ -1,0 +1,10 @@
+Top best selling(sales per customer) in every category
+Proportion of late deliveries by region(market)
+Top 5 customer based on sales (customer id for cutomer and sum(sales per customer for sale))
+Which country has the most customers(Group by country, customer)
+
+
+
+
+
+-- Display sorted

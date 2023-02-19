@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"model","l":"CustomerProductRecord"},{"p":"model","l":"CustomerSale"},{"p":"util","l":"FileLoader"},{"p":"model","l":"ProductSales"},{"p":"<Unnamed>","l":"QueueRunner"},{"p":"service","l":"QueueService"},{"p":"service","l":"QueueServiceImpl"}];updateSearchResults();
