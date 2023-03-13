@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"model","l":"Customer"},{"p":"model","l":"DeliveryRegion"},{"p":"<Unnamed>","l":"LinkedListMaxHeapRunner"},{"p":"service","l":"MaxHeapImpl"},{"p":"service","l":"MaxHeapService"},{"p":"model","l":"Node"},{"p":"model","l":"OrderCountry"},{"p":"model","l":"Record"}]
