@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"model","l":"Customer"},{"p":"service","l":"Graph"},{"p":"model","l":"GraphEdge"},{"p":"model","l":"GraphVertex"},{"p":"model","l":"Order"},{"p":"model","l":"Product"},{"p":"model","l":"Record"},{"p":"<Unnamed>","l":"UndirectedGraphRunner"},{"p":"service","l":"UndirectedGraphService"}]
